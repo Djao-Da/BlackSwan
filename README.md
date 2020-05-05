@@ -6,8 +6,6 @@ For using this test you should have Python 3.5, Selenium WebDriver 3.9, Jinja2 a
 if you don’t have HtmlTest runner you can easily install it using pip
 $ pip install html-testRunner
 
-For changing test Data open test.py find and change variables: login, password, depatrureAirport, arrivalAirport etc.
-
 To start this test from macOS you need to download or clone this repository open terminal and run test.py
 
 $ /test_env/bin/python3 test.py
